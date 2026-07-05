@@ -1,0 +1,13 @@
+Period,Indicator,Correlation_R,Slope,Observations,File
+Dot-com Bubble (1995-2000),S&P 500 Index Level,-0.05858772133905724,-6.2634920052136725e-06,62,dot_com_sp500_correlation.png
+Housing Bubble (2002-2007),S&P 500 Index Level,0.20306303039620696,3.388394152039968e-05,70,housing_sp500_correlation.png
+Current Market (2022-latest),S&P 500 Index Level,0.23357993008291855,7.192474554574626e-06,55,current_sp500_correlation.png
+Dot-com Bubble (1995-2000),VIX,-0.2981556958195051,-0.0015979960304363158,62,dot_com_vix_correlation.png
+Housing Bubble (2002-2007),VIX,-0.4021387470294593,-0.0018765347543254775,70,housing_vix_correlation.png
+Current Market (2022-latest),VIX,-0.6288906543308064,-0.004523381304154108,55,current_vix_correlation.png
+Dot-com Bubble (1995-2000),Chicago Fed Leverage Subindex,-0.10855200043487283,-0.004610411594329272,62,dot_com_leverage_subindex_correlation.png
+Housing Bubble (2002-2007),Chicago Fed Leverage Subindex,0.22249554715792605,0.0131354007995297,70,housing_leverage_subindex_correlation.png
+Current Market (2022-latest),Chicago Fed Leverage Subindex,0.16974415707003468,0.016305064672499557,54,current_leverage_subindex_correlation.png
+Dot-com Bubble (1995-2000),SLOOS Bank Tightening Standards,0.10624014958018546,0.0004961577535802905,48,dot_com_bank_tightening_standards_correlation.png
+Housing Bubble (2002-2007),SLOOS Bank Tightening Standards,-0.10649856975132063,-0.00021800435699710632,70,housing_bank_tightening_standards_correlation.png
+Current Market (2022-latest),SLOOS Bank Tightening Standards,0.26021936521868183,0.0009791965174205813,55,current_bank_tightening_standards_correlation.png
